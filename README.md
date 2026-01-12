@@ -1,0 +1,1 @@
+The Habit Tracker is a personal productivity and self-improvement application designed to help users track, manage, and maintain daily habits efficiently. It allows users to monitor their progress, break big habits into smaller sub-tasks, and build consistency in their routines. The main goal of the app is to encourage positive behavior through structured habit tracking.
